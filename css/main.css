@@ -68,7 +68,7 @@ h1 {
 img{
     border: 5px solid gray;
     opacity: 0.5x;
-    transition: ls;
+    transition: l0s;
 }
 
 img:hover {
